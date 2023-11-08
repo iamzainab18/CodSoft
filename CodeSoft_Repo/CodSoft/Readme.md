@@ -1,0 +1,1 @@
+This repo contains the tasks of Web Development Internship provided by CodSoft.
